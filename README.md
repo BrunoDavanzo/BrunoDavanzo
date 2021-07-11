@@ -7,5 +7,5 @@ On my free time I love watching Netflix, 🎬 specially old movies, play with my
 
 I'm also on LinkedIn
 
-[![Linkedin Badge](https://www.linkedin.com/in/bruno-davanzo-b4ba89183/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-davanzo-b4ba89183/)](https://www.linkedin.com/in/bruno-davanzo-b4ba89183/)
 

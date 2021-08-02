@@ -9,7 +9,7 @@ I'm also on LinkedIn
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-davanzo-b4ba89183/)](https://www.linkedin.com/in/bruno-davanzo-b4ba89183/)
 
-![html](https://img.shields.io/badge/-html-red)
-![javascript](https://img.shields.io/badge/-javascript-yellow)
-![css](https://img.shields.io/badge/-css-blue)
-![react.js](https://img.shields.io/badge/-react.js-success)
+![html](https://img.shields.io/badge/-HTML-red)
+![javascript](https://img.shields.io/badge/-JavaScript-yellow)
+![css](https://img.shields.io/badge/-CSS-blue)
+![react.js](https://img.shields.io/badge/-React.js-success)

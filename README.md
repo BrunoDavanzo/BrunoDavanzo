@@ -12,3 +12,4 @@ I'm also on LinkedIn
 ![html](https://img.shields.io/badge/-html-red)
 ![javascript](https://img.shields.io/badge/-javascript-yellow)
 ![css](https://img.shields.io/badge/-css-blue)
+![react.js](https://img.shields.io/badge/-css-success)
